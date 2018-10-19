@@ -1,5 +1,7 @@
 ## Description
 
+Forked from https://github.com/zulucrypto/stellar-api, modified by Abdul Muin (muin.abdul@gmail.com) aka @mangadul.
+
 PHP Library for interacting with the Stellar network.
 
 * Communicate with Horizon server
